@@ -35,3 +35,6 @@ scRNAseq_PBMC3k_from_scratch/
 
 ```
 ---
+
+
+![Screenshot of a dotplot for cannonical markers](figures/dotplot__dotplot_canonical_markers.png)
