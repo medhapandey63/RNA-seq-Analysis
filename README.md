@@ -17,13 +17,11 @@ scRNAseq_PBMC3k_from_scratch/
 │  ├─ raw/              # downloaded 10x matrix files 
 │  └─ processed/        # saved Seurat/AnnData objects
 ├─ notebooks/
-│  ├─ 01_scanpy_qc_clustering.ipynb
+│  ├─ scRNA_seq.ipynb
 │  └─ 01_seurat_qc_clustering.Rmd
 ├─ scripts/
 │  ├─ python/
 │  │  ├─ scRNA_seq.ipynb
-│  └─ r/
-│     └─ 01_seurat_pipeline.R
 ├─ results/
 │  ├─ figures/
 │  └─ tables/
