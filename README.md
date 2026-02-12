@@ -3,8 +3,7 @@ Downloaded a public scRNA-seq dataset → QC → normalization → clustering �
 
 Dataset: 10x Genomics 3k PBMCs from a Healthy Donor
 Link: https://www.10xgenomics.com/datasets/3-k-pbm-cs-from-a-healthy-donor-1-standard-1-1-0?utm_source=chatgpt.com
-
-
+\
 
 scRNAseq_PBMC3k_from_scratch/
 ├─ README.md
