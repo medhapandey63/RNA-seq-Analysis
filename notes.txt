@@ -1,0 +1,3 @@
+##### data was kept in proper directories to provide the relative paths
+2. in the scRNA expression dat we get the information on genes, barcodes and count matrix. Most of the programs accepts genes information labelled as features
+

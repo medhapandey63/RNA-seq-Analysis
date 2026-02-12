@@ -1,0 +1,17 @@
+name: scrna_pbmc3k
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - scanpy
+  - anndata
+  - leidenalg
+  - louvain
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - umap-learn
+  - jupyterlab
