@@ -38,3 +38,7 @@ scRNAseq_PBMC3k_from_scratch/
 
 ## Dotplot for cannonical markers for PBMC 
 ![Screenshot of a dotplot for cannonical markers](figures/dotplot__dotplot_canonical_markers.png)
+
+
+## UMAP for Clustering analysis performed on top 200 genes
+![Screenshot of a dotplot for UMAPs](figures/umap_umap_leiden.png)
